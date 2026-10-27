@@ -1,6 +1,33 @@
-cat > README.md <<'EOF'
+
 # Roadmap
 
+```mermaid
+flowchart TD
+    A["AWS Cloud Practitioner<br/>Exam 2 Nov"] --> B["Java<br/>Banking CLI 9 Nov"]
+    B --> C["PostgreSQL + Redis<br/>Backend 16 Nov"]
+    C --> D["Spring Boot<br/>CRUD API 23 Nov"]
+    D --> E["Security<br/>JWT auth service 30 Nov"]
+    E --> F["Microservices<br/>App 7 Dec"]
+    F --> G["Docker + AWS<br/>Deployment 14 Dec"]
+    G --> H["System Design<br/>URL Shortener 18 Dec"]
+    H --> I["Realtime Chat<br/>19 Dec"]
+    I --> J["Portfolio complete<br/>19 Dec"]
+    J --> K["Kubernetes"]
+    K --> L["Observability"]
+    L --> M["Kafka"]
+    M --> N["Distributed Systems"]
+    N --> O["Advanced System Design"]
+
+    classDef done fill:#2da44e,stroke:#1a7f37,color:#fff
+    classDef current fill:#fb8500,stroke:#c26700,color:#fff
+    classDef planned fill:#4c8dd6,stroke:#2b5f9e,color:#fff
+    classDef goal fill:#111827,stroke:#000,color:#fff
+    classDef later fill:#d1d5db,stroke:#6b7280,color:#111827
+    class A current
+    class B,C,D,E,F,G,H,I planned
+    class J goal
+    class K,L,M,N,O later
+```
 
 ## Deadlines
 
@@ -17,15 +44,9 @@ cat > README.md <<'EOF'
 | Sat 19 Dec | Realtime Chat |
 | Sat 19 Dec | Portfolio complete |
 
-## Order
-
-AWS, Java, PostgreSQL + Redis, Spring Boot, Security, Microservices, Docker + AWS, System Design.
-
-After that: Kubernetes, Observability, Kafka, Distributed Systems, Advanced System Design.
-
 ## Files
 
 - [Dashboard.md](Dashboard.md) for progress
-- [Roadmap.md](Roadmap.md) for the diagram and week by week plan
+- [Roadmap.md](Roadmap.md) for the full diagram and week by week plan
 - [Weekly-Reviews](Weekly-Reviews) for the weekly reviews
 EOF
