@@ -77,7 +77,7 @@
 | Metric | Now | Target |
 |---|---|---|
 | Coding hours | 12 | 190 |
-| LeetCode problems | 75 | 50 |
+| LeetCode problems | 76 | 50 |
 | Projects completed | 0 | 3 |
 | AWS certifications | 0 | 1 |
 
