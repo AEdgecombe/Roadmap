@@ -5,7 +5,6 @@
 Build first. Read docs second. Watch videos last.
 ```
 
-Last updated: 27 Oct 2026
 
 ## Current focus
 
@@ -15,8 +14,8 @@ Last updated: 27 Oct 2026
 |---|---|
 | **Week** | 1 of 8 |
 | **Focus** | AWS Cloud Practitioner |
-| **Today's build** | Create AWS account, set a billing alert, make an IAM user |
-| **Next deliverable** | AWS Cloud Practitioner exam, Mon 2 Nov |
+| **Today's build** | Finish Infoys AWS Exam |
+| **Next deliverable** | Pass Infosys AWS Exam by Mon 2nd Nov |
 | **Blocked by** | Nothing yet |
 
 ## Progress tracker
@@ -28,15 +27,15 @@ Last updated: 27 Oct 2026
   - [ ] Two practice exams at 80% or more
   - [ ] Exam passed (2 Nov)
 - [ ] **Java Foundations**
-  - [ ] Variables, data types, control flow
-  - [ ] OOP
+  - [X] Variables, data types, control flow
+  - [X] OOP
   - [ ] Collections and generics
   - [ ] Streams
   - [ ] Exceptions
   - [ ] Multithreading and concurrency
   - [ ] Banking CLI shipped (9 Nov)
 - [ ] **PostgreSQL**
-  - [ ] Queries and joins
+  - [X] Queries and joins
   - [ ] Indexing and EXPLAIN ANALYZE
   - [ ] Transactions and isolation levels
   - [ ] Query optimisation
