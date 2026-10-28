@@ -80,11 +80,11 @@ Build first. Read docs second. Watch videos last.
 
 | Metric | Now | Target |
 |---|---|---|
-| Coding hours | 0 | 190 |
-| LeetCode problems | 0 | 50 |
+| Coding hours | 12 | 190 |
+| LeetCode problems | 75 | 50 |
 | Projects completed | 0 | 3 |
 | AWS certifications | 0 | 1 |
-| GitHub streak (days) | 0 | 54 |
+
 
 ### Hours by week
 
