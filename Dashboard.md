@@ -20,11 +20,8 @@ Build first. Read docs second. Watch videos last.
 
 ## Progress tracker
 
-- [ ] **AWS Cloud Practitioner**
-  - [ ] Account and billing alert
-  - [ ] IAM, S3, EC2
-  - [ ] RDS, Lambda, VPC, CloudWatch
-  - [ ] Two practice exams at 80% or more
+- [ ] **Infosys AWS Cloud Practitioner**
+  - [ ] Practice exams at 80% or more
   - [ ] Exam passed (2 Nov)
 - [ ] **Java Foundations**
   - [X] Variables, data types, control flow
