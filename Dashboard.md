@@ -86,18 +86,6 @@ Build first. Read docs second. Watch videos last.
 | AWS certifications | 0 | 1 |
 
 
-### Hours by week
-
-| Week | Dates | Coding | Docs | Video |
-|---|---|---|---|---|
-| 1 | 27 Oct to 2 Nov | 0 | 0 | 0 |
-| 2 | 3 Nov to 9 Nov | 0 | 0 | 0 |
-| 3 | 10 Nov to 16 Nov | 0 | 0 | 0 |
-| 4 | 17 Nov to 23 Nov | 0 | 0 | 0 |
-| 5 | 24 Nov to 30 Nov | 0 | 0 | 0 |
-| 6 | 1 Dec to 7 Dec | 0 | 0 | 0 |
-| 7 | 8 Dec to 14 Dec | 0 | 0 | 0 |
-| 8 | 15 Dec to 19 Dec | 0 | 0 | 0 |
 
 ## Weekly status
 
