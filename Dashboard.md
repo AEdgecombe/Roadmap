@@ -1,9 +1,5 @@
 # Dashboard
 
-```text
-70% Coding  |  20% Documentation  |  10% Videos
-Build first. Read docs second. Watch videos last.
-```
 
 
 ## Current focus
