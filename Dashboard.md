@@ -10,9 +10,7 @@
 |---|---|
 | **Week** | 1 of 8 |
 | **Focus** | AWS Cloud Practitioner |
-| **Today's build** | Finish Infoys AWS Exam |
-| **Next deliverable** | Pass Infosys AWS Exam by Mon 2nd Nov |
-| **Blocked by** | Nothing yet |
+
 
 ## Progress tracker
 
