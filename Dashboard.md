@@ -4,7 +4,6 @@
 
 ## Current focus
 
-> Edit this block every morning.
 
 | | |
 |---|---|
@@ -104,7 +103,7 @@ Status key: ⚪ Planned, 🟡 In progress, 🟢 Done, 🔴 Behind
 | [Realtime Chat](Projects/Realtime-Chat/README.md) | 19 Dec | Spring Boot, WebSockets, Redis, Kafka | ⚪ Planned |
 | [Ecommerce](Projects/Ecommerce/README.md) | Built Week 6, polished Week 8 | Spring Boot, microservices, PostgreSQL | ⚪ Planned |
 
-## Quick links
+
 
 - [Roadmap and diagram](Roadmap.md)
 - [LeetCode tracker](Interview-Prep/README.md)
