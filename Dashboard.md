@@ -22,9 +22,9 @@
 - [ ] **Java Foundations**
   - [X] Variables, data types, control flow
   - [X] OOP
-  - [ ] Collections and generics
-  - [ ] Streams
-  - [ ] Exceptions
+  - [X] Collections and generics
+  - [X] Streams
+  - [X] Exceptions
   - [ ] Multithreading and concurrency
   - [ ] Banking CLI shipped (9 Nov)
 - [ ] **PostgreSQL**
