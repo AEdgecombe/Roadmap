@@ -22,7 +22,7 @@
   - [X] Collections and generics
   - [X] Streams
   - [X] Exceptions
-  - [ ] Multithreading and concurrency
+  - [X] Multithreading and concurrency
   - [ ] Banking CLI shipped (9 Nov)
 - [ ] **PostgreSQL**
   - [X] Queries and joins
